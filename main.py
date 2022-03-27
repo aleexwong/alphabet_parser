@@ -21,7 +21,7 @@ def add_text():
     with open("new_file1.txt", "r") as file, open("new_file2.txt", "w") as new:
         for line in file:
             if line.strip() != '':
-                new.write(f"<item>{line}<\item>""\n")
+                new.write(f"<item>{line}</item>""\n")
 
 
 if __name__ == '__main__':
