@@ -20,7 +20,8 @@ def add_text():
     """
     with open("new_file1.txt", "r") as file, open("new_file2.txt", "w") as new:
         for line in file:
-            new.write(f"<item>{line}<\item>\n")
+            if line.strip() != '':
+                new.write(f"<item>{line}<\item>""\n")
 
 
 if __name__ == '__main__':

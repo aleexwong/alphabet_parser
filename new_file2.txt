@@ -28,27 +28,15 @@
 <\item>
 <item>norwegian buhund
 <\item>
-<item>
-<\item>
 <item>french bulldog
 <\item>
 <item>boston bulldog
 <\item>
 <item>english bulldog
 <\item>
-<item>
-<\item>
-<item>
-<\item>
 <item>staffordshire bullterrier
 <\item>
-<item>
-<\item>
 <item>australian cattledog
-<\item>
-<item>
-<\item>
-<item>
 <\item>
 <item>chihuahua
 <\item>
@@ -60,15 +48,11 @@
 <\item>
 <item>border collie
 <\item>
-<item>
-<\item>
 <item>coonhound
 <\item>
 <item>corgi
 <\item>
 <item>cardigan corgi
-<\item>
-<item>
 <\item>
 <item>cotondetulear
 <\item>
@@ -78,13 +62,7 @@
 <\item>
 <item>great dane
 <\item>
-<item>
-<\item>
-<item>
-<\item>
 <item>scottish deerhound
-<\item>
-<item>
 <\item>
 <item>dhole
 <\item>
@@ -96,8 +74,6 @@
 <\item>
 <item>norwegian
 <\item>
-<item>
-<\item>
 <item>entlebucher
 <\item>
 <item>eskimo
@@ -106,21 +82,15 @@
 <\item>
 <item>lapphund
 <\item>
-<item>
-<\item>
 <item>frise
 <\item>
 <item>bichon
-<\item>
-<item>
 <\item>
 <item>germanshepherd
 <\item>
 <item>greyhound
 <\item>
 <item>italian
-<\item>
-<item>
 <\item>
 <item>groenendael
 <\item>
@@ -141,8 +111,6 @@
 <item>plott
 <\item>
 <item>walker
-<\item>
-<item>
 <\item>
 <item>husky
 <\item>
@@ -176,8 +144,6 @@
 <\item>
 <item>tibetan
 <\item>
-<item>
-<\item>
 <item>mexicanhairless
 <\item>
 <item>mix
@@ -188,8 +154,6 @@
 <\item>
 <item>swiss
 <\item>
-<item>
-<\item>
 <item>newfoundland
 <\item>
 <item>otterhound
@@ -197,8 +161,6 @@
 <item>ovcharka
 <\item>
 <item>caucasian
-<\item>
-<item>
 <\item>
 <item>papillon
 <\item>
@@ -210,8 +172,6 @@
 <\item>
 <item>miniature
 <\item>
-<item>
-<\item>
 <item>pitbull
 <\item>
 <item>pointer
@@ -219,8 +179,6 @@
 <item>german
 <\item>
 <item>germanlonghair
-<\item>
-<item>
 <\item>
 <item>pomeranian
 <\item>
@@ -231,8 +189,6 @@
 <item>standard
 <\item>
 <item>toy
-<\item>
-<item>
 <\item>
 <item>pug
 <\item>
@@ -252,13 +208,9 @@
 <\item>
 <item>golden
 <\item>
-<item>
-<\item>
 <item>ridgeback
 <\item>
 <item>rhodesian
-<\item>
-<item>
 <\item>
 <item>rottweiler
 <\item>
@@ -274,8 +226,6 @@
 <\item>
 <item>miniature
 <\item>
-<item>
-<\item>
 <item>setter
 <\item>
 <item>english
@@ -284,15 +234,11 @@
 <\item>
 <item>irish
 <\item>
-<item>
-<\item>
 <item>sheepdog
 <\item>
 <item>english
 <\item>
 <item>shetland
-<\item>
-<item>
 <\item>
 <item>shiba
 <\item>
@@ -314,17 +260,11 @@
 <\item>
 <item>welsh
 <\item>
-<item>
-<\item>
 <item>springer
 <\item>
 <item>english
 <\item>
-<item>
-<\item>
 <item>stbernard
-<\item>
-<item>
 <\item>
 <item>terrier
 <\item>
@@ -374,17 +314,11 @@
 <\item>
 <item>yorkshire terrier
 <\item>
-<item>
-<\item>
 <item>tervuren
 <\item>
 <item>vizsla
 <\item>
 <item>spanish waterdog
-<\item>
-<item>
-<\item>
-<item>
 <\item>
 <item>weimaraner
 <\item>
